@@ -1,0 +1,15 @@
+/Users/kseniya/Desktop/Learning/seminar_4/HW_4/ex_25/bin/Debug/net6.0/ex_25
+/Users/kseniya/Desktop/Learning/seminar_4/HW_4/ex_25/bin/Debug/net6.0/ex_25.deps.json
+/Users/kseniya/Desktop/Learning/seminar_4/HW_4/ex_25/bin/Debug/net6.0/ex_25.runtimeconfig.json
+/Users/kseniya/Desktop/Learning/seminar_4/HW_4/ex_25/bin/Debug/net6.0/ex_25.dll
+/Users/kseniya/Desktop/Learning/seminar_4/HW_4/ex_25/bin/Debug/net6.0/ref/ex_25.dll
+/Users/kseniya/Desktop/Learning/seminar_4/HW_4/ex_25/bin/Debug/net6.0/ex_25.pdb
+/Users/kseniya/Desktop/Learning/seminar_4/HW_4/ex_25/obj/Debug/net6.0/ex_25.csproj.AssemblyReference.cache
+/Users/kseniya/Desktop/Learning/seminar_4/HW_4/ex_25/obj/Debug/net6.0/ex_25.GeneratedMSBuildEditorConfig.editorconfig
+/Users/kseniya/Desktop/Learning/seminar_4/HW_4/ex_25/obj/Debug/net6.0/ex_25.AssemblyInfoInputs.cache
+/Users/kseniya/Desktop/Learning/seminar_4/HW_4/ex_25/obj/Debug/net6.0/ex_25.AssemblyInfo.cs
+/Users/kseniya/Desktop/Learning/seminar_4/HW_4/ex_25/obj/Debug/net6.0/ex_25.csproj.CoreCompileInputs.cache
+/Users/kseniya/Desktop/Learning/seminar_4/HW_4/ex_25/obj/Debug/net6.0/ex_25.dll
+/Users/kseniya/Desktop/Learning/seminar_4/HW_4/ex_25/obj/Debug/net6.0/ref/ex_25.dll
+/Users/kseniya/Desktop/Learning/seminar_4/HW_4/ex_25/obj/Debug/net6.0/ex_25.pdb
+/Users/kseniya/Desktop/Learning/seminar_4/HW_4/ex_25/obj/Debug/net6.0/ex_25.genruntimeconfig.cache
