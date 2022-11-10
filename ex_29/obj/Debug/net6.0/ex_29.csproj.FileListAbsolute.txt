@@ -1,0 +1,15 @@
+/Users/kseniya/Desktop/Learning/seminar_4/HW_4/ex_29/obj/Debug/net6.0/ex_29.csproj.AssemblyReference.cache
+/Users/kseniya/Desktop/Learning/seminar_4/HW_4/ex_29/obj/Debug/net6.0/ex_29.GeneratedMSBuildEditorConfig.editorconfig
+/Users/kseniya/Desktop/Learning/seminar_4/HW_4/ex_29/obj/Debug/net6.0/ex_29.AssemblyInfoInputs.cache
+/Users/kseniya/Desktop/Learning/seminar_4/HW_4/ex_29/obj/Debug/net6.0/ex_29.AssemblyInfo.cs
+/Users/kseniya/Desktop/Learning/seminar_4/HW_4/ex_29/obj/Debug/net6.0/ex_29.csproj.CoreCompileInputs.cache
+/Users/kseniya/Desktop/Learning/seminar_4/HW_4/ex_29/bin/Debug/net6.0/ex_29
+/Users/kseniya/Desktop/Learning/seminar_4/HW_4/ex_29/bin/Debug/net6.0/ex_29.deps.json
+/Users/kseniya/Desktop/Learning/seminar_4/HW_4/ex_29/bin/Debug/net6.0/ex_29.runtimeconfig.json
+/Users/kseniya/Desktop/Learning/seminar_4/HW_4/ex_29/bin/Debug/net6.0/ex_29.dll
+/Users/kseniya/Desktop/Learning/seminar_4/HW_4/ex_29/bin/Debug/net6.0/ref/ex_29.dll
+/Users/kseniya/Desktop/Learning/seminar_4/HW_4/ex_29/bin/Debug/net6.0/ex_29.pdb
+/Users/kseniya/Desktop/Learning/seminar_4/HW_4/ex_29/obj/Debug/net6.0/ex_29.dll
+/Users/kseniya/Desktop/Learning/seminar_4/HW_4/ex_29/obj/Debug/net6.0/ref/ex_29.dll
+/Users/kseniya/Desktop/Learning/seminar_4/HW_4/ex_29/obj/Debug/net6.0/ex_29.pdb
+/Users/kseniya/Desktop/Learning/seminar_4/HW_4/ex_29/obj/Debug/net6.0/ex_29.genruntimeconfig.cache
