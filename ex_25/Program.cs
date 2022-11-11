@@ -7,5 +7,12 @@ int number_b = Convert.ToInt32(Console.ReadLine());
 Exponentiate(number_a, number_b);
 
 void Exponentiate(int x, int stepen){
-    Console.WriteLine("a^b = " + Math.Pow(x, stepen));
+    int res = x;
+    while (stepen!=1)
+    {
+        res = res*x;
+        stepen--;
+    }
+    Console.WriteLine("a^b = " + Math.Pow(x, number_b));
+    Console.WriteLine("while: a^b = " + res);
 }
